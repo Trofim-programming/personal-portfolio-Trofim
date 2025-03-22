@@ -3,7 +3,8 @@
 Welcome to my personal portfolio website!  
 This is a simple, responsive, and visually engaging portfolio where I showcase my development projects, tech stack, and a bit about myself.
 
-![Screenshot of Portfolio](screenshot.png)
+<img src="screenshot.png" alt="Screenshot of Portfolio" width="100" height="100" />
+
 
 ---
 
